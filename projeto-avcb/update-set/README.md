@@ -1,24 +1,9 @@
+# ⚙️ Update Sets
 
-# 🚀 Melhorias Futuras
+Esta pasta armazenará exportações do projeto ServiceNow para versionamento e deploy.
 
-## Próximas evoluções planejadas
+## Futuro conteúdo:
 
-### Automação
-- Atualização automática de status por data
-- Alertas por e-mail antes do vencimento
-- Escalonamento automático
-
-### Dashboards
-- Quantidade de AVCBs vencidos
-- Indicador por unidade
-- SLA de renovação
-
-### UX
-- Catálogo de serviços
-- Portal para solicitações
-- Formulário simplificado
-
-### Integrações
-- Outlook
-- Power BI
-- Teams
+- AVCB_Table.xml
+- AVCB_Fields.xml
+- AVCB_Full_Project.xml
